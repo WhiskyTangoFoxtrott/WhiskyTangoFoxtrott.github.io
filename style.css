@@ -1,0 +1,17 @@
+body,
+.header {background-color:black; text-align: center; padding: 20px;}
+.column {float: left; right;}
+/* Left and right column */
+.column.side {width: 12.5%;}
+/* Middle column */
+.column.middle {width: 75%}
+p {background-color:black}
+p {
+  margin: 0;
+color:white;
+}
+h1 {
+  margin-top: 0;
+  color:white;
+}
+a {color:red}
